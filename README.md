@@ -56,12 +56,14 @@
 
 ## 📁 폴더 구조
 
+```text
 project-root/
-├── index.html         # 프론트엔드 진입점
-├── style.css          # 프론트 디자인
-├── client.js          # API 요청 및 응답 처리
-├── api/               # 백엔드 API 폴더
-│   └── duksungAI.js   # Express 서버 및 Gemini API 연동
-├── README.md          # 프로젝트 설명
+├── index.html          # 프론트엔드 진입점
+├── style.css           # 화면 스타일
+├── client.js           # API 요청 및 응답 처리
+├── api/
+│   └── duksungAI.js    # 백엔드 API 및 Gemini 연동
+└── README.md           # 프로젝트 소개
+```
 
 
